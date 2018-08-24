@@ -20,7 +20,7 @@ spring:
     password: guest
 
 
-orign: wulei1
+orign: gitdemotest
 
 env: gitdemotest
 
